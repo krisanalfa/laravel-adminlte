@@ -1,0 +1,11 @@
+{
+  "name": "awesome-app",
+  "private": true,
+  "dependencies": {
+    "AdminLTE": "admin-lte#~2.3.2",
+    "Ionicons": "ionicons#^2.0.1",
+    "font-awesome": "^4.5.0",
+    "raphael": "^2.1.4",
+    "moment": "^2.11.1"
+  }
+}
