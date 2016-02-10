@@ -25,6 +25,9 @@ npm install
 # npm install -g gulp
 gulp
 
+# After all, install your PHP dependencies library via composer
+composer install -vvv
+
 # Launch your app via PHP development server
 php artisan serve
 
