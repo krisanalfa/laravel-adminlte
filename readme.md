@@ -6,7 +6,7 @@ This skeleton provides a barebone [Laravel 5.2 Application](https://github.com/l
 
 ```sh
 # Clone this repo
-git clone git@github.com:krisanalfa/laravel-adminlte app
+composer create-project krisanalfa/laravel-adminlte app
 
 # Change active directory to 'app', as we clone this repo to 'app' folder
 cd app

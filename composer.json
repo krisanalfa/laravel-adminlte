@@ -1,6 +1,6 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
+    "name": "krisanalfa/laravel-adminlte",
+    "description": "his skeleton provides a barebone Laravel Application with AdminLTE Template.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "type": "project",
